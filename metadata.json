@@ -1,0 +1,8 @@
+{
+  "name": "DeepSea BioAI",
+  "description": "Discover Life Through Environmental DNA — An intelligent eDNA analysis platform for taxonomic identification, biodiversity assessment, and unknown sequence detection (Problem Statement ID 25042).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
